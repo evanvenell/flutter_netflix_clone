@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1661173994, 596757888]
+build_end_time: [1661173997, 555891036]
+inputs:
+  "/Users/evanvenelle/Flutter_Personal_Projects/Full_Projects/netflix_clone/macos/Flutter/GeneratedPluginRegistrant.swift": [1661173978, 152348041]
+  "/Users/evanvenelle/Flutter_Personal_Projects/Full_Projects/netflix_clone/macos/Runner/AppDelegate.swift": [1648486804, 0]
+  "/Users/evanvenelle/Flutter_Personal_Projects/Full_Projects/netflix_clone/macos/Runner/MainFlutterWindow.swift": [1648486804, 0]
